@@ -7,3 +7,24 @@ git add .
 git commit "My first commit"
 git commit -m "My first commit"
 history
+
+ls
+ls -a
+dir
+git status
+git add .
+git commit "My first commit"
+git commit -m "My first commit"
+history
+git add .
+git commit -m "My second  commit"
+git remote add origin https://github.com/shubhra01/github-for-devops-workshop.git
+git remote show origin
+git remote show origin
+git add .
+git commit "Commot Git commands"
+git commit -m "Commot Git commands"
+git remote show origin
+git push origin master
+git remote -v
+history
